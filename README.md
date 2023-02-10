@@ -14,6 +14,9 @@ Type in console in project directory:
 ```
 mvn spring-boot:run
 ```
-
 ## Technologies
-Java17, Maven, Spring: Boot, Data, Security, Lombok, JUnit, Mockito
+<img src="https://img.shields.io/badge/-JAVA 17-red" alt="Java 17" /> <img src="https://img.shields.io/badge/-MAVEN-red" alt="MAVEN" />
+<img src="https://img.shields.io/badge/-SPRING BOOT-red" alt="Spring Boot" /> <img src="https://img.shields.io/badge/-SPRING DATA-red" alt="Spring Data" />
+<img src="https://img.shields.io/badge/-SPRING SECURITY-red" alt="Spring Security" />
+<img src="https://img.shields.io/badge/-LOMBOK-red" alt="Lombok" /> <img src="https://img.shields.io/badge/-JUNIT-red" alt="JUnit" />
+<img src="https://img.shields.io/badge/-MOCKITO-red" alt="Mockito" />
